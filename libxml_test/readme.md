@@ -1,4 +1,5 @@
-This is just to study and test libxml and gccxml.
+This is just to study and test libxml and gccxml.The installation was by directly building from source for GCCXML.
+libxml is already there in most distros.
 First a hello.c file was created and it was converted to xml using gccxml.
 $gccxml hello.c
 It produces a file as required hello.xml,an xml document with root GCCXML.
